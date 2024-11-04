@@ -3,6 +3,12 @@
 
 Rainfax is an imaginary delivery company based out from Bengaluru. It works as delivery agents for their clients handling the entire delivery cycle from start to end. They have employed runners whose job is collected items from client and delivering it to where ever they want it delivered. Each runner is deployed in different locations ensuring they have proper connectivity. Each runner is assigned different duty and location as per the cycle of delivery. They now have an issue of tracking runners with excel sheets and want a single page power BI dashboard for the month of June which maps all the required data of each runner in an interactive way.
 
+## Preview
+
+![Preview](Rainfax_june.pdf)
+
+![Click here for the pbix file](Rainfax_June.pbix)
+
 ## Requirements
 
 •	A single page interactive power bi dashboard which shows important details regarding file collection for each runner.
