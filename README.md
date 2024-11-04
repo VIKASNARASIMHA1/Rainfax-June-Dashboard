@@ -31,7 +31,7 @@ Rainfax is an imaginary delivery company based out from Bengaluru. It works as d
 
 •	Cleaning the excel sheet provided by filling out the missing values with the median of the respective column and removed all the unnecessary columns.
 
-•	Appending the columns for each runner for all the 31 days for the month of July.
+•	Appending the columns for each runner for all the 31 days for the month of June.
 
 •	Changing the data type of the time columns. Creating a new column to add the counts of A and B slot for each runner each day using advance excel formulas.
 
